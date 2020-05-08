@@ -1,0 +1,11 @@
+.header {
+    background: rgba(38, 34, 51, 0.2);
+    color: rgb(15, 13, 13);
+    text-align: left;
+    padding: 10px;
+}
+
+.header a {
+    color: rgb(15, 13, 13);
+    text-decoration: none;
+}
